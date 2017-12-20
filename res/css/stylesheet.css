@@ -1,5 +1,9 @@
+@import url("ttps://fonts.googleapis.com/css?family=Questrial' rel='stylesheet")
+
 html,
 body {
-    color: black;
-    background-color: white;
+    background-color: black;
+    color: white;
+    font-family: 'Questrial';
+    font-size: 22px;
 }
