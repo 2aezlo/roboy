@@ -1,9 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Questrial')
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-html,
-body {
+html, body {
     background-color: black;
     color: white;
-    font-family: 'Questrial';
-    font-size: 22px;
-}
+    width: 100%;
+    height: auto;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Montserrat',sans-serif;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+    text-transform: none;
